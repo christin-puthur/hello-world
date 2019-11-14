@@ -1,4 +1,4 @@
 # hello-world
-This is a test repository
-Bla bla bla bla Munissa-san 
+This is a test repository \n
+Bla bla bla bla Munissa-san \n
 sentences about myself
